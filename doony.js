@@ -327,7 +327,7 @@
         '#4ecdc4', // a bright green blue
         '#d95b43', // orange
         '#556270', // a slate color
-        '#542437', // purple
+        '#036DE2', // bluuuuue
         '#8fbe00', // lime yellow
     ];
 
